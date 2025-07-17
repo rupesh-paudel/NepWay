@@ -1,0 +1,8 @@
+{
+  "name": "nepway",
+  "version": "1.0.0",
+  "description": "NepWay - Ride the Nepali Way - Complete Ride Sharing Platform",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
